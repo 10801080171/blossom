@@ -1,2 +1,2 @@
 # blossom
-Welcome
+Welcome to this section of the puzzle. You are to take a look at this code and fix any errors within the code. Once the code is complete and with no errors you are to run it. It will ask you to enter a 3 digit code. you will find the 3 digit number within the code and enter it into the code. It will then show a link to a youtube video which is your next puzzle to solve(if you pay attention to the code you won't have to solve it in the first place) .Good Luck.
